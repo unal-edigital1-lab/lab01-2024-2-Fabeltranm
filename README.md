@@ -1,6 +1,8 @@
 # lab01- sumador 
 ## nombres
 
-## informe de laoratorio 
+FERNEY ALBERTO BELTRAN MOLINA
+
+## informe de laBoratorio 
 
 ### sumador 
